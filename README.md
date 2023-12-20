@@ -29,4 +29,4 @@ A Virtual Private Network is a service that securely links two computers (or net
 <h3>Setting up Resources and Citing IP Addresses</h3>
 
 <p>
-  <ul>
+Access
