@@ -10,9 +10,9 @@ A Virtual Private Network (VPN) is a powerful security tool that connects two co
 <ul>
   <li>Microsoft Azure (Virtual Machines/Compute)</li>
   <li>Remote Desktop</li>
-  <li>Internet Browser of your choice</li>
+  <li>Internet Browser (of choice)</li>
   <li>Proton VPN</li>
-  <li>Notepad to type down IP Addresses</li>
+  <li>Notepad to write down information</li>
 </ul>
 
 <br />
