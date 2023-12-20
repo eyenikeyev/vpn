@@ -10,7 +10,7 @@ A Virtual Private Network is a service that securely links two computers (or net
 <ul>
   <li>Microsoft Azure (Virtual Machines/Compute)</li>
   <li>Remote Desktop</li>
-  <li>Internet Browser (of choice)</li>
+  <li>Internet Browser (of your choice)</li>
   <li>Proton VPN</li>
   <li>Notepad to write down information</li>
 </ul>
