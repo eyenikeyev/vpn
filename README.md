@@ -41,3 +41,5 @@ Access the Azure Portal to create a virtual machine, like this as an example. Wh
 <p>
 Log in to the virtual machine through Remote Desktop and go to https://whatismyipaddress.com/. The IPv4 address should be different than the one on the local computer, take note of this.
 <p>
+<img src="https://i.imgur.com/J1vXssE.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<p>
