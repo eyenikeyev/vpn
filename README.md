@@ -49,3 +49,5 @@ Create an account on Proton VPN on the local computer
 <p>
 At home page copy and paste URL to sign in on the virtual machine, download Windows VPN Client
 <p>
+<img src="https://i.imgur.com/REU46O8.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<p>
