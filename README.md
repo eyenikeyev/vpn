@@ -51,7 +51,11 @@ At home page copy and paste URL to sign in on the virtual machine, download Wind
 <p>
 <img src="https://i.imgur.com/REU46O8.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 <p>
-Install Proton VPN in downloads the launch program. In Proton VPN launch the Japan server then go to https://whatismyipaddress.com/. Refresh the page and note the virtual machine with vpn
+Install Proton VPN in downloads the launch program. In Proton VPN launch the Japan server then go to https://whatismyipaddress.com/
 <p>
 <img src="https://i.imgur.com/vKRiQNB.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<p>
+Refresh the page and note the virtual machine with vpn
+<p>
+<img src="https://i.imgur.com/eESVGyN.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 <p>
