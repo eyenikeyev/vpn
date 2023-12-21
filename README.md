@@ -47,7 +47,11 @@ Create an account on Proton VPN on the local computer
 <p>
 <img src="https://i.imgur.com/VlSs0PG.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 <p>
-At home page copy and paste URL to sign in on the virtual machine, download Windows VPN Client. Install Proton VPN in downloads the launch program.
+At home page copy and paste URL to sign in on the virtual machine, download Windows VPN Client.
 <p>
 <img src="https://i.imgur.com/REU46O8.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<p>
+Install Proton VPN in downloads the launch program. In Proton VPN launch the Japan server then go to https://whatismyipaddress.com/
+<p>
+<img src="blob:https://imgur.com/919f6a88-c003-4729-97de-b686cdfd0902" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 <p>
