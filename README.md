@@ -45,5 +45,5 @@ Log in to the virtual machine through Remote Desktop and go to https://whatismyi
 <p>
 Create an account on Proton VPN on the local computer
 <p>
-<img src="https://i.imgur.com/VlSs0PG.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/VlSs0PG.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 <p>
