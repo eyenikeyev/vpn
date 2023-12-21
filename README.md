@@ -29,7 +29,7 @@ A Virtual Private Network is a service that securely links two computers (or net
 <h3>Setting up Resources and Citing IP Addresses</h3>
 
 <p>
-Go to https://whatismyipaddress.com/. Take note of all the information, this is for the local computer
+Go to https://whatismyipaddress.com/. Take note of the IPv4 Address, this is for the local computer
 <p>
 <img src="https://i.imgur.com/vLimHz5.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 <p>
@@ -38,4 +38,6 @@ Access the Azure Portal to create a virtual machine, like this as an example. Wh
 <img src="https://i.imgur.com/ecgrahf.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 <p>
 <img src="https://i.imgur.com/JVnyugv.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<p>
+Log in to the virtual machine through Remote Desktop and go to https://whatismyipaddress.com/. The IPv4 address should be different than the one on the local computer, take note of this.
 <p>
