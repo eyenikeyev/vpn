@@ -59,3 +59,4 @@ Refresh the page and note the virtual machine with vpn
 <p>
 <img src="https://i.imgur.com/eESVGyN.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 <p>
+This is the conclusion of the lab
