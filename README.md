@@ -33,3 +33,5 @@ Access the Azure Portal to create a virtual machine, enter the following informa
 <p>
 <img src="https://i.imgur.com/jhkLLI8.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 <p>
+<img src="https://i.imgur.com/JVnyugv.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<p>
