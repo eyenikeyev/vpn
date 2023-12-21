@@ -29,7 +29,7 @@ A Virtual Private Network is a service that securely links two computers (or net
 <h3>Setting up Resources and Citing IP Addresses</h3>
 
 <p>
-Access the Azure Portal to create a virtual machine, enter the following information as shown below
+Access the Azure Portal to create a virtual machine, like this as an example
 <p>
 <img src="https://i.imgur.com/ecgrahf.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 <p>
