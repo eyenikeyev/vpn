@@ -33,7 +33,7 @@ Go to https://whatismyipaddress.com/. Take note of all the information, this is 
 <p>
 <img src="https://i.imgur.com/vLimHz5.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 <p>
-Access the Azure Portal to create a virtual machine, like this as an example
+Access the Azure Portal to create a virtual machine, like this as an example. When creating it make sure the Region is set to a region outside of your country.
 <p>
 <img src="https://i.imgur.com/ecgrahf.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 <p>
