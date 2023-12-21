@@ -31,7 +31,7 @@ A Virtual Private Network is a service that securely links two computers (or net
 <p>
 Go to https://whatismyipaddress.com/. Take note of all the information, this is for the local computer
 <p>
-<img src="https://i.imgur.com/AzjjlU5.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/vLimHz5.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 <p>
 Access the Azure Portal to create a virtual machine, like this as an example
 <p>
