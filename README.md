@@ -35,7 +35,7 @@ Go to https://whatismyipaddress.com/. Take note of the IPv4 Address, this is for
 <p>
 Access the Azure Portal to create a virtual machine, like this as an example. When creating it make sure the Region is set to a region outside of your country.
 <p>
-<img src="https://i.imgur.com/ecgrahf.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/hzYAzdM.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 <p>
 <img src="https://i.imgur.com/JVnyugv.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 <p>
