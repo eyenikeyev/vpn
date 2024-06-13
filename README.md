@@ -31,30 +31,30 @@ A Virtual Private Network is a service that securely links two computers (or net
 <p>
 Go to https://whatismyipaddress.com/. Take note of the IPv4 Address, this is for the local computer
 <p>
-<img src="https://i.imgur.com/jQ2RZXU.jpg" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/jQ2RZXU.jpg" height="65%" width="65%" alt="Disk Sanitization Steps"/>
 <p>
 Access the Azure Portal to create a virtual machine, like this as an example. When creating it make sure the Region is set to a region outside of your country.
 <p>
-<img src="https://i.imgur.com/X6RFc1W.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/X6RFc1W.png" height="65%" width="65%" alt="Disk Sanitization Steps"/>
 </p>
 Log in to the virtual machine through Remote Desktop and go to https://whatismyipaddress.com/. The IPv4 address should be different than the one on the local computer, take note of this.
 <p>
-<img src="https://i.imgur.com/J1vXssE.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/J1vXssE.png" height="65%" width="65%" alt="Disk Sanitization Steps"/>
 <p>
 Create an account on Proton VPN on the local computer
 <p>
-<img src="https://i.imgur.com/VlSs0PG.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/VlSs0PG.png" height="65%" width="65%" alt="Disk Sanitization Steps"/>
 <p>
 At home page copy and paste URL to sign in on the virtual machine, download Windows VPN Client.
 <p>
-<img src="https://i.imgur.com/REU46O8.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/REU46O8.png" height="65%" width="65%" alt="Disk Sanitization Steps"/>
 <p>
 Install Proton VPN in downloads the launch program. In Proton VPN launch the Japan server then go to https://whatismyipaddress.com/
 <p>
-<img src="https://i.imgur.com/vKRiQNB.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/vKRiQNB.png" height="65%" width="65%" alt="Disk Sanitization Steps"/>
 <p>
 Refresh the page and note the virtual machine with vpn
 <p>
-<img src="https://i.imgur.com/eESVGyN.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/eESVGyN.png" height="65%" width="65%" alt="Disk Sanitization Steps"/>
 <p>
 This is the conclusion of the lab
